@@ -1,0 +1,1532 @@
+[96m============================================================[0m
+[92m  TEAM RBC — Squad Bot (Create/Invite/Accept/PK)[0m
+[96m============================================================[0m
+[96m[i] Match interval: 4.0s | Offline: 6.0s[0m
+[96m[i] Mode: BATTLE ROYALE ONLY[0m
+[92m[+] [SQUAD] size=4 peer_wait=90.0s[0m
+[96m[i]   invite_cycle=4.0s | max_time=120.0s[0m
+[96m[i]   heartbeat=3.0s | final_wait=8.0s[0m
+[96m============================================================[0m
+[92m[+] Dashboard: http://localhost:20333[0m
+[96m[i] [LOGIN] Guest 8283183615...[0m
+[96m[i] [LOGIN] UID 8283183615...[0m
+[96m[i] [LOGIN] Guest 8283184320...[0m
+[96m[i] [LOGIN] UID 8283184320...[0m
+[96m[i] [LOGIN] Guest 8283184850...[0m
+[96m[i] [LOGIN] UID 8283184850...[0m
+[96m[i] [LOGIN] Guest 8283185045...[0m
+[96m[i] [LOGIN] UID 8283185045...[0m
+[92m[+] [OK] 18735803888 | junakd995069 | Lvl3 | BATTLE ROYALE[0m
+[92m[+] [CACHE] Saved UID 8283185045[0m
+[92m[+] [PING] Started 18735803888[0m
+[96m📊 [EXP] UID 18735803888 Lvl3 +202[0m
+[92m[+] [FUNC] TCP connected 18735803888 (DNS:202.81.106.103 Lvl:3 R:BD)[0m
+[92m[+] [TEAM] 👑 18735803888 is leader[0m
+[92m[+] [OK] 18735803715 | junakd770958 | Lvl2 | BATTLE ROYALE[0m
+[92m[+] [CACHE] Saved UID 8283184850[0m
+[92m[+] [PING] Started 18735803715[0m
+[96m[i] [RAW-IN 18735803888] len=14 prefix=b8000000023563b800000002[0m
+[96m📊 [EXP] UID 18735803715 Lvl2 +48[0m
+[92m[+] [FUNC] TCP connected 18735803715 (DNS:148.222.66.153 Lvl:2 R:BD)[0m
+[96m[i] [RAW-IN 18735803715] len=16 prefix=fd00000003763166fd000000[0m
+[92m[+] [OK] 18735803205 | junakd472415 | Lvl3 | BATTLE ROYALE[0m
+[92m[+] [CACHE] Saved UID 8283183615[0m
+[92m[+] [PING] Started 18735803205[0m
+[96m📊 [EXP] UID 18735803205 Lvl3 +202[0m
+[92m[+] [FUNC] TCP connected 18735803205 (DNS:202.81.106.63 Lvl:3 R:BD)[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=fe000000026831[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=fe000000026831[0m
+[96m[i] [RAW-IN 18735803888] len=8 prefix=b000000003767367[0m
+[92m[+] [OK] 18735803262 | junakd373184 | Lvl2 | BATTLE ROYALE[0m
+[92m[+] [CACHE] Saved UID 8283184320[0m
+[92m[+] [PING] Started 18735803262[0m
+[96m📊 [EXP] UID 18735803262 Lvl2 +48[0m
+[92m[+] [FUNC] TCP connected 18735803262 (DNS:202.81.106.90 Lvl:2 R:BD)[0m
+[96m[i] [TEAM] 18735803262 waiting as member...[0m
+[96m[i] [RAW-IN 18735803715] len=9 prefix=f50000000430766f6a[0m
+[96m[i] [RAW-IN 18735803262] len=20 prefix=ae000000053330756871ae00[0m
+[96m[i] [TEAM] 18735803715 waiting as member...[0m
+[96m[i] [TEAM] 18735803205 waiting as member...[0m
+[92m[+] [TEAM] ✅ All 4 peers online[0m
+[96m[i] [RAW-IN 18735803205] len=8 prefix=cc00000003756c68[0m
+[96m[i] [RAW-IN 18735803888] len=11 prefix=c200000006743330766e34[0m
+[92m[+] [TEAM] 👑 18735803888 creating team...[0m
+[96m[i] [TEAM] create_team sent (310B)[0m
+[92m[+] [TEAM] 👥 In team (1/4) | joined: 18735803888[0m
+[96m[i] [RAW-IN 18735803888] len=614 prefix=050000026108f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=614 hex=050000026108f0dbf6e545100520012ad40408f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f11: 7033372[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 7033372[0m
+[96m[i] [RAW-IN 18735803262] len=9 prefix=ee0000000430756a69[0m
+[96m[i] [RAW-IN 18735803715] len=10 prefix=a700000005333076676a[0m
+[96m[i] [TEAM] Will invite 3 peers: [18735803715, 18735803205, 18735803262][0m
+[92m[+] [TEAM] 🎯 Invite-loop start (max 120s)[0m
+[92m[+] [TEAM] 📨 invite 18735803715 cycle#1[0m
+[92m[+] [TEAM] 📨 invite 18735803205 cycle#1[0m
+[96m[i] [RAW-IN 18735803205] len=8 prefix=b000000003753931[0m
+[96m[i] [RAW-IN 18735803715] len=510 prefix=05000001f908c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=510 hex=05000001f908c3daf6e545100520032aec0308f0dbf6e54512b60308f0dbf6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803715] nested@5[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f8: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803715] 📨 ACCEPT: inviter=18735803888 group=1792146519084871...[0m
+[92m[+] [TEAM-IN 18735803715] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (2/4) | joined: 18735803715[0m
+[96m[i] [RAW-IN 18735803888] len=15 prefix=050000000a08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=15 hex=050000000a08f0dbf6e54510052002[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803888] len=10 prefix=f400000005333076696f[0m
+[96m[i] [RAW-IN 18735803888] len=15 prefix=050000000a08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=15 hex=050000000a08f0dbf6e54510052002[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803205] len=510 prefix=05000001f908c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=510 hex=05000001f908c5d6f6e545100520032aec0308f0dbf6e54512b60308f0dbf6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f8: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803205] 📨 ACCEPT: inviter=18735803888 group=1792146519084871...[0m
+[92m[+] [TEAM-IN 18735803205] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (3/4) | joined: 18735803205[0m
+[96m[i] [RAW-IN 18735803715] len=1060 prefix=050000041f08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1060 hex=050000041f08c3daf6e545100520062a920808f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803715] decoded@14/manual fields=['18296683', '3', '4', '6', '7', '8', '10', '11', '13', '14', '17', '20', '22', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803715] nested@6[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f4: 1792146523[0m
+[92m[+] [TEAM-IN 18735803715] 📢 Team Code: 7033372[0m
+[92m[+] [TEAM] 📨 invite 18735803262 cycle#1[0m
+[96m[i] [RAW-IN 18735803888] len=1060 prefix=050000041f08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1060 hex=050000041f08f0dbf6e545100520062a920808f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f11: 7033372[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 7033372[0m
+[96m[i] [RAW-IN 18735803262] len=8 prefix=a900000003753875[0m
+[96m[i] [RAW-IN 18735803888] len=15 prefix=050000000a08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=15 hex=050000000a08f0dbf6e54510052002[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803262] len=510 prefix=05000001f908fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=510 hex=05000001f908fed6f6e545100520032aec0308f0dbf6e54512b60308f0dbf6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f8: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803262] 📨 ACCEPT: inviter=18735803888 group=1792146519084871...[0m
+[92m[+] [TEAM-IN 18735803262] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (4/4) | joined: 18735803262[0m
+[96m[i] [RAW-IN 18735803888] len=1506 prefix=05000005dd08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1506 hex=05000005dd08f0dbf6e545100520062ad00b08f0dbf6e545120242441801200332bb0308c5d6f6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f11: 7033372[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 7033372[0m
+[96m[i] [RAW-IN 18735803205] len=1506 prefix=05000005dd08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1506 hex=05000005dd08c5d6f6e545100520062ad00b08f0dbf6e545120242441801200332bb0308c5d6f6e5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 7033372[0m
+[96m[i] [RAW-IN 18735803715] len=1506 prefix=05000005dd08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1506 hex=05000005dd08c3daf6e545100520062ad00b08f0dbf6e545120242441801200332bb0308c5d6f6e5[0m
+[96m[i] [TEAM-IN 18735803715] decoded@14/manual fields=['18296683', '3', '4', '6', '7', '8', '10', '11', '13', '14', '17', '20', '22', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803715] nested@6[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f4: 1792146523[0m
+[92m[+] [TEAM-IN 18735803715] 📢 Team Code: 7033372[0m
+[96m[i] [RAW-IN 18735803715] len=1268 prefix=050000079b08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1268 hex=050000079b08c3daf6e545100520062a8e0f08f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803715] decoded@14/manual fields=['18296683', '3', '4', '6'][0m
+[96m[i] [TEAM-IN 18735803715] nested@6[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f4: 1792146523[0m
+[96m[i] [RAW-IN 18735803715] len=684 prefix=f9c80ba2030b6a7368736873[0m
+[96m[i] [RAW-IN 18735803888] len=1952 prefix=050000079b08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1952 hex=050000079b08f0dbf6e545100520062a8e0f08f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f11: 7033372[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 7033372[0m
+[96m[i] [RAW-IN 18735803205] len=1952 prefix=050000079b08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1952 hex=050000079b08c5d6f6e545100520062a8e0f08f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146519084871507_ar5s...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 7033372[0m
+[96m[i] [RAW-IN 18735803262] len=1268 prefix=050000079b08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1268 hex=050000079b08fed6f6e545100520062a8e0f08f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803262] len=684 prefix=f9c80ba2030b6a7368736873[0m
+[96m[i] [RAW-IN 18735803715] len=8 prefix=be00000003766b33[0m
+[96m[i] [RAW-IN 18735803205] len=10 prefix=a7000000053330756270[0m
+[92m👥 [TEAM FULL] 4/4 bots joined[0m
+[95m[TEAM] ══ FINAL: In team (4/4) ══[0m
+[96m[i] [RAW-IN 18735803888] len=8 prefix=b700000003756b77[0m
+[96m[i] [RAW-IN 18735803715] len=12 prefix=b30000000768743330756876[0m
+[96m[i] [RAW-IN 18735803262] len=11 prefix=d000000006743330766e69[0m
+[93m[!] [WATCHDOG] 18735803262 searching 32s att=0[0m
+[93m[!] [WATCHDOG] 18735803205 searching 33s att=0[0m
+[93m[!] [WATCHDOG] 18735803888 searching 38s att=0[0m
+[93m[!] [WATCHDOG] 18735803715 searching 37s att=0[0m
+[92m[+] [TEAM] 🚀 Member 18735803715: ready → 1s → start (every 5s)[0m
+[92m[+] [TEAM] 🚀 Member 18735803205: ready → 1s → start (every 5s)[0m
+[92m[+] [TEAM] 🚀 Member 18735803262: ready → 1s → start (every 5s)[0m
+[93m[!] [TEAM] member ready err: Connection lost[0m
+[91m[-] [FUNC] TCP state 18735803205: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803715: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803888: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803262: [Errno 103] Software caused connection abort[0m
+[92m[+] [FUNC] TCP connected 18735803715 (DNS:148.222.66.153 Lvl:2 R:BD)[0m
+[92m[+] [TEAM] 👑 18735803715 is leader[0m
+[96m[i] [RAW-IN 18735803715] len=18 prefix=af0000000430757466af0000[0m
+[92m[+] [FUNC] TCP connected 18735803205 (DNS:202.81.106.63 Lvl:3 R:BD)[0m
+[92m[+] [FUNC] TCP connected 18735803888 (DNS:202.81.106.103 Lvl:3 R:BD)[0m
+[96m[i] [RAW-IN 18735803205] len=6 prefix=a40000000170[0m
+[96m[i] [RAW-IN 18735803205] len=6 prefix=a40000000170[0m
+[92m[+] [FUNC] TCP connected 18735803262 (DNS:202.81.106.90 Lvl:2 R:BD)[0m
+[96m[i] [TEAM] 18735803262 waiting as member...[0m
+[96m[i] [RAW-IN 18735803888] len=22 prefix=f300000006743330757938f3[0m
+[96m[i] [RAW-IN 18735803262] len=24 prefix=dd0000000768743330763961[0m
+[92m[+] [TEAM] ✅ All 4 peers online[0m
+[96m[i] [TEAM] 18735803205 waiting as member...[0m
+[96m[i] [TEAM] 18735803888 waiting as member...[0m
+[92m[+] [TEAM] 👑 18735803715 creating team...[0m
+[96m[i] [TEAM] create_team sent (310B)[0m
+[92m[+] [TEAM] 👥 In team (1/4) | joined: 18735803715[0m
+[96m[i] [TEAM] Will invite 3 peers: [18735803205, 18735803888, 18735803262][0m
+[92m[+] [TEAM] 🎯 Invite-loop start (max 120s)[0m
+[92m[+] [TEAM] 📨 invite 18735803205 cycle#1[0m
+[92m[+] [TEAM] 📨 invite 18735803888 cycle#1[0m
+[92m[+] [TEAM] 📨 invite 18735803262 cycle#1[0m
+[91m[-] [FUNC] TCP state 18735803205: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803262: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803888: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803715: [Errno 103] Software caused connection abort[0m
+[92m[+] [FUNC] TCP connected 18735803205 (DNS:202.81.106.63 Lvl:3 R:BD)[0m
+[92m[+] [TEAM] 👑 18735803205 is leader[0m
+[92m[+] [FUNC] TCP connected 18735803262 (DNS:202.81.106.90 Lvl:2 R:BD)[0m
+[92m[+] [FUNC] TCP connected 18735803888 (DNS:202.81.106.103 Lvl:3 R:BD)[0m
+[92m[+] [FUNC] TCP connected 18735803715 (DNS:148.222.66.153 Lvl:2 R:BD)[0m
+[96m[i] [TEAM] 18735803715 waiting as member...[0m
+[96m[i] [RAW-IN 18735803205] len=14 prefix=fe000000026e70fe00000002[0m
+[96m[i] [RAW-IN 18735803262] len=12 prefix=ce0000000161ce0000000161[0m
+[96m[i] [RAW-IN 18735803888] len=14 prefix=9c000000027a6b9c00000002[0m
+[96m[i] [RAW-IN 18735803715] len=16 prefix=ef00000003303176ef000000[0m
+[92m[+] [TEAM] ✅ All 4 peers online[0m
+[96m[i] [TEAM] 18735803262 waiting as member...[0m
+[96m[i] [TEAM] 18735803888 waiting as member...[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051802[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[92m[+] [TEAM] 👑 18735803205 creating team...[0m
+[91m[-] [TEAM] create_team: Connection lost[0m
+[91m[-] [FUNC] TCP state 18735803262: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803205: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803715: [Errno 103] Software caused connection abort[0m
+[91m[-] [FUNC] TCP state 18735803888: [Errno 103] Software caused connection abort[0m
+[93m⚠️ [PING FAIL] UID 18735803888 #1[0m
+[92m[+] [FUNC] TCP connected 18735803262 (DNS:202.81.106.90 Lvl:2 R:BD)[0m
+[92m[+] [TEAM] 👑 18735803262 is leader[0m
+[92m[+] [FUNC] TCP connected 18735803888 (DNS:202.81.106.103 Lvl:3 R:BD)[0m
+[92m[+] [FUNC] TCP connected 18735803205 (DNS:202.81.106.63 Lvl:3 R:BD)[0m
+[96m[i] [RAW-IN 18735803262] len=24 prefix=d600000007687433307a3236[0m
+[92m[+] [FUNC] TCP connected 18735803715 (DNS:148.222.66.153 Lvl:2 R:BD)[0m
+[96m[i] [TEAM] 18735803715 waiting as member...[0m
+[96m[i] [RAW-IN 18735803205] len=12 prefix=9d000000016c9d000000016c[0m
+[96m[i] [RAW-IN 18735803715] len=24 prefix=dd0000000768743331303737[0m
+[92m[+] [TEAM] ✅ All 4 peers online[0m
+[96m[i] [TEAM] 18735803888 waiting as member...[0m
+[96m[i] [TEAM] 18735803205 waiting as member...[0m
+[96m[i] [RAW-IN 18735803888] len=14 prefix=b8000000026330b800000002[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051802[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803262] len=7 prefix=cd000000023475[0m
+[92m[+] [TEAM] 👑 18735803262 creating team...[0m
+[96m[i] [TEAM] create_team sent (310B)[0m
+[92m[+] [TEAM] 👥 In team (1/4) | joined: 18735803262[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=d4000000023531[0m
+[96m[i] [RAW-IN 18735803262] len=614 prefix=050000026108fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=614 hex=050000026108fed6f6e545100520012ad40408fed6f6e545120242441801200332b60308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f11: 7441550[0m
+[92m[+] [TEAM-IN 18735803262] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051802[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803888] len=10 prefix=ca00000005333130366f[0m
+[96m[i] [RAW-IN 18735803715] len=11 prefix=b40000000674333130387a[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051802[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [TEAM] Will invite 3 peers: [18735803888, 18735803205, 18735803715][0m
+[92m[+] [TEAM] 🎯 Invite-loop start (max 120s)[0m
+[92m[+] [TEAM] 📨 invite 18735803888 cycle#1[0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e54510052002[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803888] len=510 prefix=05000001f908f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=510 hex=05000001f908f0dbf6e545100520032aec0308fed6f6e54512b60308fed6f6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f8: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803888] 📨 ACCEPT: inviter=18735803262 group=1792146589963080...[0m
+[92m[+] [TEAM-IN 18735803888] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (2/4) | joined: 18735803888[0m
+[96m[i] [RAW-IN 18735803262] len=9 prefix=bd0000000431306632[0m
+[96m[i] [RAW-IN 18735803262] len=1060 prefix=050000041f08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1060 hex=050000041f08fed6f6e545100520062a920808fed6f6e545120242441801200332b60308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f11: 7441550[0m
+[92m[+] [TEAM-IN 18735803262] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803888] len=1060 prefix=050000041f08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1060 hex=050000041f08f0dbf6e545100520062a920808fed6f6e545120242441801200332b60308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 7441550[0m
+[92m[+] [TEAM] 📨 invite 18735803205 cycle#1[0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e54510052002[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803205] len=510 prefix=05000001f908c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=510 hex=05000001f908c5d6f6e545100520032aec0308fed6f6e54512b60308fed6f6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f8: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803205] 📨 ACCEPT: inviter=18735803262 group=1792146589963080...[0m
+[92m[+] [TEAM-IN 18735803205] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (3/4) | joined: 18735803205[0m
+[96m[i] [RAW-IN 18735803205] len=1506 prefix=05000005dd08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1506 hex=05000005dd08c5d6f6e545100520062ad00b08fed6f6e545120242441801200332bb0308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803262] len=1506 prefix=05000005dd08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1506 hex=05000005dd08fed6f6e545100520062ad00b08fed6f6e545120242441801200332bb0308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f11: 7441550[0m
+[92m[+] [TEAM-IN 18735803262] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803888] len=1506 prefix=05000005dd08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1506 hex=05000005dd08f0dbf6e545100520062ad00b08fed6f6e545120242441801200332bb0308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803888] len=7 prefix=cd00000002616f[0m
+[92m[+] [TEAM] 📨 invite 18735803715 cycle#1[0m
+[96m[i] [RAW-IN 18735803715] len=510 prefix=05000001f908c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=510 hex=05000001f908c3daf6e545100520032aec0308fed6f6e54512b60308fed6f6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803715] nested@5[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f8: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803715] 📨 ACCEPT: inviter=18735803262 group=1792146589963080...[0m
+[92m[+] [TEAM-IN 18735803715] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (4/4) | joined: 18735803715[0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e54510052002[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803715] len=1952 prefix=050000079b08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1952 hex=050000079b08c3daf6e545100520062a8e0f08fed6f6e545120242441801200332bb0308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803715] decoded@14/manual fields=['18296683', '3', '4', '6', '7', '8', '10', '11', '13', '14', '17', '20', '22', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803715] nested@6[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@root.f18296683: 0520062a8e0f08fed6f6e545...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803715] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803888] len=1952 prefix=050000079b08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1952 hex=050000079b08f0dbf6e545100520062a8e0f08fed6f6e545120242441801200332bb0308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803262] len=1952 prefix=050000079b08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1952 hex=050000079b08fed6f6e545100520062a8e0f08fed6f6e545120242441801200332bb0308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f11: 7441550[0m
+[92m[+] [TEAM-IN 18735803262] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803205] len=1952 prefix=050000079b08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1952 hex=050000079b08c5d6f6e545100520062a8e0f08fed6f6e545120242441801200332bb0308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 7441550[0m
+[96m[i] [RAW-IN 18735803205] len=10 prefix=ed000000053331306468[0m
+[96m[i] [RAW-IN 18735803715] len=8 prefix=a9000000037a3672[0m
+[92m👥 [TEAM FULL] 4/4 bots joined[0m
+[95m[TEAM] ══ FINAL: In team (4/4) ══[0m
+[96m[i] [RAW-IN 18735803262] len=8 prefix=fd00000003306775[0m
+[96m[i] [RAW-IN 18735803888] len=6 prefix=ff0000000138[0m
+[96m[i] [RAW-IN 18735803205] len=6 prefix=ff0000000135[0m
+[96m[i] [RAW-IN 18735803715] len=11 prefix=bb000000067433307a3166[0m
+[96m[i] [RAW-IN 18735803262] len=11 prefix=a600000006743331306269[0m
+[96m[i] [RAW-IN 18735803888] len=9 prefix=a800000004307a3077[0m
+[96m[i] [RAW-IN 18735803205] len=9 prefix=b60000000431303931[0m
+[96m[i] [RAW-IN 18735803715] len=7 prefix=db000000023262[0m
+[92m[+] [TEAM] 🚀 Member 18735803888: ready → 1s → start (every 5s)[0m
+[92m[+] [TEAM] 🚀 Member 18735803205: ready → 1s → start (every 5s)[0m
+[92m[+] [TEAM] 🚀 Member 18735803715: ready → 1s → start (every 5s)[0m
+[96m[i] [RAW-IN 18735803715] len=1961 prefix=05000007a408c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1961 hex=05000007a408c3daf6e545100520102a970f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=3922 prefix=05000007a408c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=3922 hex=05000007a408c5d6f6e545100520102a970f0a8e0f08fed6f6e545120242441801200332bb0308c3[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=3922 prefix=05000007a408fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=3922 hex=05000007a408fed6f6e545100520102a970f0a8e0f08fed6f6e545120242441801200332bb0308c3[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1961 prefix=05000007a408c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1961 hex=05000007a408c3daf6e545100520102a970f0a8e0f08fed6f6e545120242441801200332bb0308c3[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=3922 prefix=05000007a408f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=3922 hex=05000007a408f0dbf6e545100520102a970f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1961 prefix=05000007a408c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1961 hex=05000007a408c3daf6e545100520102a970f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=1961 prefix=05000007a408c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1961 hex=05000007a408c5d6f6e545100520102a970f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1961 prefix=05000007a408fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1961 hex=05000007a408fed6f6e545100520102a970f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1961 prefix=05000007a408f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1961 hex=05000007a408f0dbf6e545100520102a970f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=7 prefix=aa000000027a79[0m
+[96m[i] [RAW-IN 18735803888] len=1961 prefix=c00000000177050000079e08[0m
+[96m[i] [RAW-IN 18735803715] len=1268 prefix=050000079e08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1268 hex=050000079e08c3daf6e5451005200a2a910f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803205] len=1955 prefix=050000079e08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1955 hex=050000079e08c5d6f6e5451005200a2a910f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=4643 prefix=0399d9f9c80ba2030b6a7368[0m
+[96m[i] [RAW-IN 18735803262] len=5911 prefix=050000079e08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=5911 hex=050000079e08fed6f6e5451005200a2a910f0a8e0f08fed6f6e545120242441801200332b60308fe[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=3928 prefix=05000007a708f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=3928 hex=05000007a708f0dbf6e5451005200a2a9a0f0a970f08fed6f6e545120242441801200332b90308fe[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=3986 prefix=05000007a708c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=3986 hex=05000007a708c5d6f6e5451005200a2a9a0f0a970f08fed6f6e545120242441801200332b90308fe[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[92m============================================================[0m
+[92m🏁 [MATCH START] UID: 18735803715[0m
+[92m============================================================[0m
+[92m============================================================[0m
+[92m🏁 [MATCH START] UID: 18735803262[0m
+[92m============================================================[0m
+[93m[!] [FUNC] Non-match big pkt #1[0m
+[96m[i] [RAW-IN 18735803205] len=3374 prefix=050000079908c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=3374 hex=050000079908c5d6f6e5451005200e2a8c0f08fed6f6e545120242441801200332b60308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146589963080709_y0zi...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 7441550[0m
+[93m[!] [FUNC] Non-match big pkt #1[0m
+[96m[i] [RAW-IN 18735803205] len=526 prefix=c38566c091e660480150ad02[0m
+[92m============================================================[0m
+[92m🏁 [MATCH START] UID: 18735803888[0m
+[92m============================================================[0m
+[93m[!] [FUNC] Non-match big pkt #1[0m
+[96m[i] [RAW-IN 18735803205] len=31 prefix=050000001a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=31 hex=050000001a08c5d6f6e5451005200d2a0e08fed6f6e54510fed6f6e5451802[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803262[0m
+[96m[i] [RAW-IN 18735803205] len=1911 prefix=050000077208c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1911 hex=050000077208c5d6f6e545100520382ae50e08f0dbf6e545120242441801200332ae0308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['14', '7', '3', '4', '6', '8', '10', '11', '13', '17', '20', '22', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 9118272[0m
+[96m[i] [RAW-IN 18735803205] len=1489 prefix=05000005cc08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1489 hex=05000005cc08c5d6f6e545100520082abf0b08fed6f6e54510011ab40b08f0dbf6e5451202424418[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803262[0m
+[96m[i] [RAW-IN 18735803205] len=1054 prefix=050000041908c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1054 hex=050000041908c5d6f6e545100520082a8c0808c3daf6e54510011a810808f0dbf6e5451202424418[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803715[0m
+[96m[i] [RAW-IN 18735803205] len=1662 prefix=050000040e08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1662 hex=050000040e08c5d6f6e545100520382a810808c5d6f6e545120242441801200332b00308c5d6f6e5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146611773259211_sa9f...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f11: 3883049[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [RAW-IN 18735803205] len=12 prefix=c80000000768743331303370[0m
+[92m[+] [FUNC] TCP connected 18735803888 (DNS:202.81.106.103 Lvl:3 R:BD)[0m
+[92m[+] [TEAM] 👑 18735803888 is leader[0m
+[92m[+] [FUNC] TCP connected 18735803715 (DNS:148.222.66.153 Lvl:2 R:BD)[0m
+[96m[i] [RAW-IN 18735803888] len=14 prefix=e9000000026e34e900000002[0m
+[92m[+] [FUNC] TCP connected 18735803262 (DNS:202.81.106.90 Lvl:2 R:BD)[0m
+[96m[i] [TEAM] 18735803262 waiting as member...[0m
+[96m[i] [RAW-IN 18735803715] len=16 prefix=d3000000037a7066d3000000[0m
+[96m[i] [RAW-IN 18735803262] len=22 prefix=980000000674333130356198[0m
+[92m[+] [TEAM] ✅ All 4 peers online[0m
+[96m[i] [TEAM] 18735803715 waiting as member...[0m
+[93m[!] [WATCHDOG] 18735803205 searching 30s att=0[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051802[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803205] len=1230 prefix=050000026408c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1230 hex=050000026408c5d6f6e545100520102ad7040ace0408c5d6f6e545120242441801200332b00308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=7 prefix=f7000000026572[0m
+[96m[i] [RAW-IN 18735803888] len=6 prefix=b2000000016f[0m
+[96m[i] [RAW-IN 18735803262] len=7 prefix=9c000000027471[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=a3000000027478[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051802[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[92m[+] [TEAM] 👑 18735803888 creating team...[0m
+[96m[i] [TEAM] create_team sent (310B)[0m
+[92m[+] [TEAM] 👥 In team (1/4) | joined: 18735803888[0m
+[96m[i] [RAW-IN 18735803888] len=614 prefix=050000026108f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=614 hex=050000026108f0dbf6e545100520012ad40408f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f11: 9260672[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 9260672[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051802[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803715] len=8 prefix=c5000000037a6a37[0m
+[96m[i] [RAW-IN 18735803262] len=12 prefix=b300000007687433307a7861[0m
+[96m[i] [TEAM] Will invite 3 peers: [18735803205, 18735803715, 18735803262][0m
+[92m[+] [TEAM] 🎯 Invite-loop start (max 120s)[0m
+[92m[+] [TEAM] 📨 invite 18735803205 cycle#1[0m
+[92m[+] [TEAM] 📨 invite 18735803715 cycle#1[0m
+[96m[i] [RAW-IN 18735803888] len=15 prefix=050000000a08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=15 hex=050000000a08f0dbf6e54510052002[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803715] len=510 prefix=05000001f908c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=510 hex=05000001f908c3daf6e545100520032aec0308f0dbf6e54512b60308f0dbf6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803715] nested@5[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f8: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803715] 📨 ACCEPT: inviter=18735803888 group=1792146618228048...[0m
+[92m[+] [TEAM-IN 18735803715] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (2/4) | joined: 18735803715[0m
+[96m[i] [RAW-IN 18735803888] len=15 prefix=050000000a08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=15 hex=050000000a08f0dbf6e54510052002[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803715] len=1060 prefix=050000041f08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1060 hex=050000041f08c3daf6e545100520062a920808f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803715] decoded@14/manual fields=['18296683', '3', '4', '6', '7', '8', '10', '11', '13', '14', '17', '20', '22', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803715] nested@6[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f4: 1792146622[0m
+[92m[+] [TEAM-IN 18735803715] 📢 Team Code: 9260672[0m
+[96m[i] [RAW-IN 18735803888] len=1060 prefix=050000041f08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1060 hex=050000041f08f0dbf6e545100520062a920808f0dbf6e545120242441801200332b60308f0dbf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f11: 9260672[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 9260672[0m
+[96m[i] [RAW-IN 18735803888] len=9 prefix=c400000004307a6463[0m
+[92m[+] [TEAM] 📨 invite 18735803262 cycle#1[0m
+[96m[i] [RAW-IN 18735803888] len=15 prefix=050000000a08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=15 hex=050000000a08f0dbf6e54510052002[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803262] len=510 prefix=05000001f908fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=510 hex=05000001f908fed6f6e545100520032aec0308f0dbf6e54512b60308f0dbf6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f8: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803262] 📨 ACCEPT: inviter=18735803888 group=1792146618228048...[0m
+[92m[+] [TEAM-IN 18735803262] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (3/4) | joined: 18735803262[0m
+[96m[i] [RAW-IN 18735803715] len=1506 prefix=05000005dd08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1506 hex=05000005dd08c3daf6e545100520062ad00b08f0dbf6e545120242441801200332bb0308c3daf6e5[0m
+[96m[i] [TEAM-IN 18735803715] decoded@14/manual fields=['18296683', '3', '4', '6', '7', '8', '10', '11', '13', '14', '17', '20', '22', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803715] nested@6[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@root.f18296683: 0520062ad00b08f0dbf6e545...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803715] 📢 Team Code: 9260672[0m
+[96m[i] [RAW-IN 18735803888] len=1506 prefix=05000005dd08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1506 hex=05000005dd08f0dbf6e545100520062ad00b08f0dbf6e545120242441801200332bb0308c3daf6e5[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803888] nested@5[0m
+[92m[+] [TEAM-IN 18735803888] 📋 group_id@f14: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803888] 👤 inviter@f11: 9260672[0m
+[92m[+] [TEAM-IN 18735803888] 📢 Team Code: 9260672[0m
+[96m[i] [RAW-IN 18735803262] len=1506 prefix=05000005dd08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1506 hex=05000005dd08fed6f6e545100520062ad00b08f0dbf6e545120242441801200332bb0308c3daf6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f14: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f1: 18735803888[0m
+[92m[+] [TEAM-IN 18735803262] 📢 Team Code: 9260672[0m
+[92m[+] [TEAM] 📨 invite 18735803205 cycle#2[0m
+[96m[i] [RAW-IN 18735803205] len=633 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=633 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[92m[+] [TEAM-IN 18735803205] 📨 ACCEPT: inviter=1792146611 group=0107090a0b120f19...[0m
+[92m[+] [TEAM-IN 18735803205] ✅ accept #1 (358B)[0m
+[92m[+] [TEAM] 👥 In team (4/4) | joined: 18735803205[0m
+[96m[i] [RAW-IN 18735803715] len=7 prefix=a3000000026466[0m
+[96m[i] [RAW-IN 18735803262] len=9 prefix=cb0000000430787a79[0m
+[96m[i] [RAW-IN 18735803205] len=1816 prefix=05000001f908c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1816 hex=05000001f908c5d6f6e545100520032aec0308f0dbf6e54512b60308f0dbf6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f8: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803888[0m
+[96m[i] [RAW-IN 18735803888] len=26 prefix=d00000000674333079656f05[0m
+[96m[i] [RAW-IN 18735803715] len=12 prefix=ba000000076874333079677a[0m
+[96m[i] [RAW-IN 18735803205] len=525 prefix=05000001f908c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=525 hex=05000001f908c5d6f6e545100520032aec0308f0dbf6e54512b60308f0dbf6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f8: 1792146618228048439_jghw...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803888[0m
+[96m[i] [RAW-IN 18735803205] len=11 prefix=c900000006743330793274[0m
+[92m👥 [TEAM FULL] 4/4 bots joined[0m
+[95m[TEAM] ══ FINAL: In team (4/4) ══[0m
+[96m[i] [RAW-IN 18735803262] len=8 prefix=fd00000003787669[0m
+[96m[i] [RAW-IN 18735803888] len=6 prefix=b90000000134[0m
+[96m[i] [RAW-IN 18735803715] len=8 prefix=cc0000000379626e[0m
+[92m[+] [TEAM] 🚀 Member 18735803715: ready → 1s → start (every 5s)[0m
+[92m[+] [TEAM] 🚀 Member 18735803262: ready → 1s → start (every 5s)[0m
+[96m[i] [RAW-IN 18735803715] len=1515 prefix=05000005e608c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1515 hex=05000005e608c3daf6e545100520102ad90b0ad00b08f0dbf6e545120242441801200332bb0308fe[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1515 prefix=05000005e608f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1515 hex=05000005e608f0dbf6e545100520102ad90b0ad00b08f0dbf6e545120242441801200332bb0308fe[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=3030 prefix=05000005e608fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=3030 hex=05000005e608fed6f6e545100520102ad90b0ad00b08f0dbf6e545120242441801200332bb0308fe[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1515 prefix=05000005e608c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1515 hex=05000005e608c3daf6e545100520102ad90b0ad00b08f0dbf6e545120242441801200332b60308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1515 prefix=05000005e608f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1515 hex=05000005e608f0dbf6e545100520102ad90b0ad00b08f0dbf6e545120242441801200332b60308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1511 prefix=05000005e208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1511 hex=05000005e208c3daf6e5451005200a2ad50b0ad00b08f0dbf6e545120242441801200332b60308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1526 prefix=05000005e208fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1526 hex=05000005e208fed6f6e5451005200a2ad50b0ad00b08f0dbf6e545120242441801200332b60308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1511 prefix=05000005e208f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1511 hex=05000005e208f0dbf6e5451005200a2ad50b0ad00b08f0dbf6e545120242441801200332b60308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=11 prefix=b400000006743330787765[0m
+[96m[i] [RAW-IN 18735803888] len=7 prefix=b1000000027938[0m
+[96m[i] [RAW-IN 18735803205] len=1759 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1759 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [RAW-IN 18735803715] len=12 prefix=d60000000768743330797466[0m
+[96m[i] [RAW-IN 18735803205] len=660 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=660 hex=050000000a08c5d6f6e54510051809db000000027868050000026a08c5d6f6e545100520102add04[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803205] len=9 prefix=b60000000430786e70[0m
+[93m[!] [WATCHDOG] 18735803715 searching 30s att=0[0m
+[93m[!] [WATCHDOG] 18735803888 searching 30s att=0[0m
+[93m[!] [WATCHDOG] 18735803262 searching 30s att=0[0m
+[93m[!] [WATCHDOG] 18735803205 searching 60s att=0[0m
+[96m[i] [RAW-IN 18735803715] len=1527 prefix=05000005f208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1527 hex=05000005f208c3daf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=3079 prefix=05000005f208fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=3079 hex=05000005f208fed6f6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=3064 prefix=05000005f208f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=3064 hex=05000005f208f0dbf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1548 prefix=05000005f208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1548 hex=05000005f208c3daf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332be0308fe[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=635 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=635 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [RAW-IN 18735803262] len=2536 prefix=05000005f208fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=2536 hex=05000005f208fed6f6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5', '13'][0m
+[96m[i] [RAW-IN 18735803888] len=2848 prefix=05000005f208f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=2848 hex=05000005f208f0dbf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=524 prefix=0792010b0107090a0b120f19[0m
+[96m[i] [RAW-IN 18735803888] len=206 prefix=040408011001aa0404080110[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803205] len=11 prefix=fa00000006743330786478[0m
+[96m[i] [RAW-IN 18735803715] len=3069 prefix=05000005f208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=3069 hex=05000005f208c3daf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=6 prefix=f10000000166[0m
+[96m[i] [RAW-IN 18735803205] len=623 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=623 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [RAW-IN 18735803888] len=9 prefix=f50000000430796f67[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803262] len=8 prefix=e100000003786a32[0m
+[96m[i] [RAW-IN 18735803715] len=1527 prefix=05000005f208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1527 hex=05000005f208c3daf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1527 prefix=05000005f208f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1527 hex=05000005f208f0dbf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1527 prefix=05000005f208fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1527 hex=05000005f208fed6f6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=12 prefix=c80000000768743330786964[0m
+[96m[i] [RAW-IN 18735803888] len=1527 prefix=05000005f208f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1527 hex=05000005f208f0dbf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1527 prefix=05000005f208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1527 hex=05000005f208c3daf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1527 prefix=05000005f208fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1527 hex=05000005f208fed6f6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=11 prefix=9f00000006743330796f7a[0m
+[96m[i] [RAW-IN 18735803888] len=10 prefix=d800000005333078726b[0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e54510051809[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803205] len=623 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=623 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [RAW-IN 18735803262] len=10 prefix=d1000000053330797461[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803888] len=12 prefix=c10000000768743330786f30[0m
+[96m[i] [RAW-IN 18735803205] len=11 prefix=a600000006743330797878[0m
+[96m[i] [RAW-IN 18735803715] len=9 prefix=cb0000000430787237[0m
+[96m[i] [RAW-IN 18735803715] len=1527 prefix=05000005f208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1527 hex=05000005f208c3daf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1527 prefix=05000005f208f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1527 hex=05000005f208f0dbf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1527 prefix=05000005f208fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1527 hex=05000005f208fed6f6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1527 prefix=05000005f208fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1527 hex=05000005f208fed6f6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1527 prefix=05000005f208c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1527 hex=05000005f208c3daf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1527 prefix=05000005f208f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1527 hex=05000005f208f0dbf6e545100520102ae50b0adc0b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1519 prefix=05000005ea08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1519 hex=05000005ea08c3daf6e5451005200a2add0b0ad80b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1547 prefix=05000005ea08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1547 hex=05000005ea08fed6f6e5451005200a2add0b0ad80b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803888] len=1547 prefix=05000005ea08f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1547 hex=05000005ea08f0dbf6e5451005200a2add0b0ad80b08f0dbf6e545120242441801200332b90308f0[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=30 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=30 hex=050000000a08c3daf6e5451005182e050000000a08c3daf6e5451005180d[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e5451005182e[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803715] len=15 prefix=050000000a08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=15 hex=050000000a08c3daf6e5451005182e[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803262] len=30 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=30 hex=050000000a08fed6f6e5451005180d050000000a08fed6f6e5451005182e[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803205] len=623 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=623 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[92m============================================================[0m
+[92m🏁 [MATCH START] UID: 18735803715[0m
+[92m============================================================[0m
+[92m============================================================[0m
+[92m🏁 [MATCH START] UID: 18735803888[0m
+[92m============================================================[0m
+[95m[PK] 🎯 Room Code: 04213[0m
+[95m[PK] 🌐 Server: 156.59.67.42:10018[0m
+[95m[PK] 🔑 UDP Key: 0d3f56c142cd52c4f9dbc916c69fc0e1[0m
+[96m[i] [TARGET] BATTLE_ROYALE mid=1 mp=1[0m
+[96m[MATCH #1] UDP -> 156.59.67.42:10018 (BATTLE_ROYALE)[0m
+[95m[PK] 🎯 Room Code: 04213[0m
+[95m[PK] 🌐 Server: 156.59.67.42:10018[0m
+[95m[PK] 🔑 UDP Key: 0d3f56c142cd52c4f9dbc916c69fc0e1[0m
+[96m[i] [TARGET] BATTLE_ROYALE mid=1 mp=1[0m
+[96m[MATCH #1] UDP -> 156.59.67.42:10018 (BATTLE_ROYALE)[0m
+[92m============================================================[0m
+[92m🏁 [MATCH START] UID: 18735803262[0m
+[92m============================================================[0m
+[95m[PK] 🎯 Room Code: 04213[0m
+[95m[PK] 🌐 Server: 156.59.67.42:10018[0m
+[95m[PK] 🔑 UDP Key: 0d3f56c142cd52c4f9dbc916c69fc0e1[0m
+[96m[i] [TARGET] BATTLE_ROYALE mid=1 mp=1[0m
+[96m[MATCH #1] UDP -> 156.59.67.42:10018 (BATTLE_ROYALE)[0m
+[95m[MATCH #1] UDP -> 156.59.67.42:10018 (DNS:156.59.67.42)[0m
+[95m[MATCH #1] UDP -> 156.59.67.42:10018 (DNS:156.59.67.42)[0m
+[95m[MATCH #1] UDP -> 156.59.67.42:10018 (DNS:156.59.67.42)[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[92m[+] [MATCH #1] Startup delivered[0m
+[92m[+] [AFK] Worker #1[0m
+[92m[+] [MOVE] Worker #1 | random[0m
+[92m[+] [MATCH #1] Startup delivered[0m
+[92m[+] [AFK] Worker #1[0m
+[92m[+] [MOVE] Worker #1 | random[0m
+[92m[+] [MATCH #1] Startup delivered[0m
+[92m[+] [AFK] Worker #1[0m
+[92m[+] [MOVE] Worker #1 | random[0m
+[96m[i] [RAW-IN 18735803205] len=8 prefix=d300000003796b6c[0m
+[96m[i] [MOVE] walk -> idle (1.55s)[0m
+[96m[i] [MOVE] walk -> idle (0.77s)[0m
+[96m[i] [MOVE] walk -> idle (0.85s)[0m
+[96m[i] [MOVE] idle -> walk (1.60s)[0m
+[96m[i] [RAW-IN 18735803205] len=623 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=623 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [MOVE] idle -> walk (2.63s)[0m
+[96m[i] [MOVE] idle -> walk (2.55s)[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] walk -> idle (1.16s)[0m
+[96m[i] [MOVE] idle -> walk (2.46s)[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=9c000000026735[0m
+[93m[!] [WATCHDOG] 18735803205 searching 90s att=0[0m
+[96m[i] [MOVE] walk -> idle (0.66s)[0m
+[96m[i] [MOVE] walk -> idle (1.00s)[0m
+[96m[i] [RAW-IN 18735803205] len=623 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=623 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [MOVE] idle -> walk (2.61s)[0m
+[96m[i] [MOVE] idle -> walk (2.85s)[0m
+[96m[i] [RAW-IN 18735803205] len=27 prefix=b30000000768743330796a70[0m
+[96m[i] [MOVE] walk -> run (3.31s)[0m
+[96m[i] [MOVE] walk -> prone (3.37s)[0m
+[96m[i] [RAW-IN 18735803205] len=650 prefix=970000000768743330793739[0m
+[96m[i] [MOVE] run -> idle (1.39s)[0m
+[96m[i] [MOVE] #1 sent=30 walk(1) rate=0.72x[0m
+[96m[i] [MOVE] prone -> run (3.15s)[0m
+[96m[i] [MOVE] #1 sent=30 idle(0) rate=0.93x[0m
+[96m[i] [MOVE] idle -> walk (2.04s)[0m
+[96m[i] [MOVE] walk -> idle (0.93s)[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=f7000000023978[0m
+[96m[i] [MOVE] idle -> run (3.76s)[0m
+[96m[i] [MOVE] #1 sent=30 run(2) rate=0.87x[0m
+[96m[i] [MOVE] walk -> idle (0.69s)[0m
+[96m[i] [MOVE] idle -> walk (2.86s)[0m
+[96m[i] [RAW-IN 18735803205] len=623 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=623 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] run -> walk (1.87s)[0m
+[96m[i] [RAW-IN 18735803205] len=9 prefix=d20000000430713835[0m
+[96m[i] [MOVE] walk -> idle (1.32s)[0m
+[96m[i] [RAW-IN 18735803205] len=623 prefix=050000026a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=623 hex=050000026a08c5d6f6e545100520102add040ad40408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@8/manual fields=['13', '2', '3', '4', '6', '7', '8', '10', '11', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803205] nested@6[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f4: 1792146611[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 3883049[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] idle -> walk (2.80s)[0m
+[96m[i] [MOVE] walk -> idle (0.85s)[0m
+[96m[i] [RAW-IN 18735803205] len=9 prefix=b60000000430707670[0m
+[96m[i] [MOVE] idle -> crouch (2.18s)[0m
+[96m[i] [MOVE] run -> walk (1.90s)[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051802[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] crouch -> walk (2.20s)[0m
+[96m[i] [MOVE] walk -> run (3.65s)[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051802[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] #1 sent=60 run(2) rate=0.69x[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=cd000000027a39[0m
+[96m[i] [MOVE] #1 sent=60 walk(1) rate=0.83x[0m
+[96m[i] [MOVE] #1 sent=60 walk(1) rate=0.87x[0m
+[93m[!] [WATCHDOG] 18735803205 searching 121s att=0[0m
+[91m[-] [FUNC] TCP state 18735803205: Search watchdog[0m
+[96m[i] [MOVE] walk -> idle (1.35s)[0m
+[96m[i] [MOVE] walk -> run (2.35s)[0m
+[92m[+] [FUNC] TCP connected 18735803205 (DNS:202.81.106.63 Lvl:3 R:BD)[0m
+[96m[i] [TEAM] 18735803205 waiting as member...[0m
+[96m[i] [RAW-IN 18735803205] len=12 prefix=f1000000016cf1000000016c[0m
+[96m[i] [MOVE] idle -> walk (2.73s)[0m
+[96m[i] [MOVE] run -> walk (2.47s)[0m
+[96m[i] [MOVE] walk -> idle (0.88s)[0m
+[96m[i] [MOVE] idle -> walk (2.46s)[0m
+[96m[i] [RAW-IN 18735803205] len=9 prefix=9a0000000430706a39[0m
+[96m[i] [MOVE] walk -> idle (0.95s)[0m
+[96m📡 [PING OK] UID 18735803715 total=10[0m
+[96m📡 [PING OK] UID 18735803262 total=10[0m
+[96m[i] [MOVE] idle -> run (2.91s)[0m
+[96m[i] [MOVE] walk -> idle (1.21s)[0m
+[96m[i] [MOVE] run -> idle (0.68s)[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=b1000000026d74[0m
+[96m📡 [PING OK] UID 18735803205 total=10[0m
+[96m[i] [RAW-IN 18735803205] len=578 prefix=050000023d08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=578 hex=050000023d08c5d6f6e545100520032ab00408f3f3acc64212f80308f3f3acc642120a5374616232[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f8: 1792146717589676059_kb7j...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 17864276467[0m
+[92m[+] [TEAM-IN 18735803205] 📨 ACCEPT: inviter=17864276467 group=1792146717589676...[0m
+[92m[+] [TEAM-IN 18735803205] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (4/4) | joined: 18735803205[0m
+[96m[i] [MOVE] idle -> walk (2.11s)[0m
+[96m[i] [RAW-IN 18735803205] len=1130 prefix=050000046508c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1130 hex=050000046508c5d6f6e545100520062ad80808f3f3acc642120242441801200332f80308f3f3acc6[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146717589676059_kb7j...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 17864276467[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 0241711[0m
+[96m[i] [MOVE] idle -> run (3.91s)[0m
+[96m[i] [MOVE] walk -> idle (0.77s)[0m
+[96m[i] [MOVE] #1 sent=90 idle(0) rate=0.84x[0m
+[96m[i] [MOVE] #1 sent=90 run(2) rate=0.71x[0m
+[96m[i] [RAW-IN 18735803205] len=10 prefix=ca000000053330717639[0m
+[96m[i] [MOVE] #1 sent=90 run(2) rate=0.71x[0m
+[96m[i] [MOVE] run -> walk (2.49s)[0m
+[96m[i] [MOVE] run -> walk (2.16s)[0m
+[96m[i] [RAW-IN 18735803205] len=1121 prefix=050000045c08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1121 hex=050000045c08c5d6f6e545100520122acf0808f3f3acc642120242441801200332f80308f3f3acc6[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146717589676059_kb7j...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 17864276467[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 0241711[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e5451005182e[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [RAW-IN 18735803205] len=19 prefix=050000000e08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=19 hex=050000000e08c5d6f6e545100520342a020802[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [MOVE] walk -> idle (1.36s)[0m
+[96m[i] [MOVE] idle -> run (2.74s)[0m
+[96m[i] [MOVE] idle -> walk (2.15s)[0m
+[96m[i] [RAW-IN 18735803205] len=1124 prefix=050000045f08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1124 hex=050000045f08c5d6f6e545100520122ad20808f3f3acc642120242441801200332f80308f3f3acc6[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146717589676059_kb7j...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 17864276467[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 0241711[0m
+[96m[i] [RAW-IN 18735803205] len=6 prefix=dc0000000178[0m
+[96m[i] [MOVE] walk -> run (3.34s)[0m
+[96m[i] [MOVE] run -> walk (2.36s)[0m
+[96m[i] [RAW-IN 18735803205] len=1121 prefix=050000045c08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1121 hex=050000045c08c5d6f6e545100520122acf0808f3f3acc642120242441801200332f80308f3f3acc6[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146717589676059_kb7j...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 17864276467[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 0241711[0m
+[92m[+] [TEAM] 🚀 Member 18735803205: ready → 1s → start (every 5s)[0m
+[96m[i] [RAW-IN 18735803205] len=1132 prefix=050000046708c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1132 hex=050000046708c5d6f6e545100520102ada080ad10808f3f3acc642120242441801200332f80308f3[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=1712 prefix=050000044c08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1712 hex=050000044c08c5d6f6e545100520382abf0808c5d6f6e545120242441801200332f10308f3f3acc6[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f14: 1792146731361080786_svso...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f11: 6535449[0m
+[92m[+] [TEAM-IN 18735803205] 📢 Team Code: 6535449[0m
+[96m[i] [MOVE] walk -> idle (1.33s)[0m
+[96m[i] [MOVE] run -> sprint (1.25s)[0m
+[96m[i] [RAW-IN 18735803205] len=610 prefix=050000025d08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=610 hex=050000025d08c5d6f6e5451005200a2ad0040acb0408c5d6f6e545120242441801200332b00308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=11 prefix=f300000006743330717468[0m
+[96m[i] [MOVE] idle -> walk (2.97s)[0m
+[96m[i] [MOVE] sprint -> idle (1.07s)[0m
+[96m[i] [MOVE] walk -> idle (1.45s)[0m
+[96m[i] [MOVE] idle -> walk (2.94s)[0m
+[96m[i] [MOVE] idle -> walk (1.69s)[0m
+[93m[!] [WATCHDOG] 18735803205 searching 30s att=0[0m
+[96m[i] [RAW-IN 18735803205] len=620 prefix=050000026708c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=620 hex=050000026708c5d6f6e545100520102ada040ad10408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [MOVE] walk -> run (3.90s)[0m
+[96m[i] [RAW-IN 18735803205] len=11 prefix=d700000006743330716831[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] #1 sent=120 run(2) rate=0.79x[0m
+[96m[i] [MOVE] #1 sent=120 walk(1) rate=0.88x[0m
+[96m[i] [MOVE] walk -> run (3.49s)[0m
+[96m[i] [MOVE] #1 sent=120 run(2) rate=0.88x[0m
+[96m[i] [MOVE] walk -> idle (0.89s)[0m
+[96m[i] [MOVE] run -> walk (2.89s)[0m
+[96m[i] [RAW-IN 18735803205] len=620 prefix=050000026708c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=620 hex=050000026708c5d6f6e545100520102ada040ad10408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=12 prefix=a50000000768743330716c68[0m
+[96m[i] [MOVE] idle -> walk (2.92s)[0m
+[96m[i] [MOVE] run -> idle (1.45s)[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] walk -> idle (0.96s)[0m
+[96m[i] [MOVE] idle -> walk (2.41s)[0m
+[96m[i] [MOVE] idle -> jump (0.54s)[0m
+[96m[i] [RAW-IN 18735803205] len=620 prefix=050000026708c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=620 hex=050000026708c5d6f6e545100520102ada040ad10408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [MOVE] jump -> walk (2.21s)[0m
+[96m[i] [RAW-IN 18735803205] len=8 prefix=b700000003716735[0m
+[96m[i] [MOVE] walk -> idle (0.71s)[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] idle -> walk (2.70s)[0m
+[96m[i] [MOVE] walk -> idle (0.92s)[0m
+[96m[i] [MOVE] walk -> run (2.11s)[0m
+[96m[i] [MOVE] idle -> run (3.67s)[0m
+[96m[i] [RAW-IN 18735803205] len=1545 prefix=050000060408c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1545 hex=050000060408c5d6f6e545100520222af70b08f3f3acc642120a01090a121619201d27291a0a5374[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f2: 01090a121619201d2729...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 17864276467[0m
+[96m[i] [MOVE] walk -> idle (1.28s)[0m
+[96m[i] [MOVE] run -> idle (1.50s)[0m
+[96m[i] [RAW-IN 18735803205] len=620 prefix=050000026708c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=620 hex=050000026708c5d6f6e545100520102ada040ad10408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [MOVE] #1 sent=150 run(2) rate=0.62x[0m
+[96m[i] [MOVE] run -> idle (1.54s)[0m
+[96m[i] [MOVE] #1 sent=150 idle(0) rate=0.8x[0m
+[96m[i] [RAW-IN 18735803205] len=9 prefix=bd00000004306f6f35[0m
+[96m[i] [RAW-IN 18735803205] len=15 prefix=050000000a08c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=15 hex=050000000a08c5d6f6e54510051809[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '3'][0m
+[96m[i] [MOVE] idle -> walk (2.44s)[0m
+[96m[i] [MOVE] idle -> walk (2.80s)[0m
+[96m[i] [RAW-IN 18735803205] len=644 prefix=050000026308c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=644 hex=050000026308c5d6f6e5451005200a2ad6040ad10408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [MOVE] idle -> walk (2.97s)[0m
+[96m[i] [MOVE] #1 sent=150 walk(1) rate=0.7x[0m
+[96m[i] [MOVE] walk -> run (2.63s)[0m
+[96m[i] [RAW-IN 18735803205] len=8 prefix=e1000000036f6468[0m
+[96m[i] [RAW-IN 18735803205] len=620 prefix=050000026708c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=620 hex=050000026708c5d6f6e545100520102ada040ad10408c5d6f6e545120242441801200332b30308c5[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m📡 [PING OK] UID 18735803888 total=10[0m
+[96m[i] [MOVE] run -> idle (1.05s)[0m
+[92m============================================================[0m
+[92m🏁 [MATCH START] UID: 18735803205[0m
+[92m============================================================[0m
+[95m[PK] 🎯 Room Code: 32014[0m
+[95m[PK] 🌐 Server: 154.93.46.168:10017[0m
+[95m[PK] 🔑 UDP Key: 77a61ebc0b5a73ffe812ccbf45fa0e38[0m
+[96m[i] [TARGET] BATTLE_ROYALE mid=1 mp=1[0m
+[96m[MATCH #1] UDP -> 154.93.46.168:10017 (BATTLE_ROYALE)[0m
+[95m[MATCH #1] UDP -> 154.93.46.168:10017 (DNS:154.93.46.168)[0m
+[96m[i] [MOVE] walk -> idle (1.12s)[0m
+[92m[+] [MATCH #1] Startup delivered[0m
+[92m[+] [AFK] Worker #1[0m
+[92m[+] [MOVE] Worker #1 | random[0m
+[96m[i] [MOVE] idle -> run (3.46s)[0m
+[96m[i] [MOVE] walk -> run (2.84s)[0m
+[96m[i] [MOVE] idle -> walk (2.17s)[0m
+[96m[i] [MOVE] run -> walk (1.89s)[0m
+[96m[i] [MOVE] run -> walk (2.00s)[0m
+[96m[i] [MOVE] walk -> idle (1.37s)[0m
+[96m[i] [MOVE] idle -> walk (2.95s)[0m
+[96m[i] [MOVE] #1 sent=180 walk(1) rate=0.66x[0m
+[96m[i] [MOVE] #1 sent=180 walk(1) rate=0.81x[0m
+[96m[i] [MOVE] walk -> idle (1.47s)[0m
+[96m[i] [MOVE] #1 sent=180 walk(1) rate=0.67x[0m
+[96m[i] [MOVE] idle -> run (2.40s)[0m
+[96m[i] [MOVE] walk -> idle (0.90s)[0m
+[96m[i] [MOVE] walk -> idle (0.64s)[0m
+[96m[i] [MOVE] idle -> walk (2.73s)[0m
+[96m[i] [MOVE] run -> idle (0.64s)[0m
+[96m[i] [MOVE] idle -> prone (1.75s)[0m
+[96m[i] [MOVE] walk -> idle (1.56s)[0m
+[96m[i] [MOVE] idle -> walk (2.87s)[0m
+[96m[i] [MOVE] prone -> idle (1.20s)[0m
+[96m[i] [MOVE] #1 sent=30 idle(0) rate=0.66x[0m
+[96m[i] [MOVE] walk -> crouch (1.75s)[0m
+[96m[i] [MOVE] idle -> walk (2.83s)[0m
+[96m[i] [MOVE] crouch -> walk (1.73s)[0m
+[96m[i] [MOVE] idle -> run (2.46s)[0m
+[96m[i] [MOVE] run -> sprint (1.60s)[0m
+[96m[i] [MOVE] sprint -> walk (1.73s)[0m
+[96m[i] [MOVE] walk -> run (2.01s)[0m
+[96m[i] [MOVE] #1 sent=210 walk(1) rate=0.89x[0m
+[96m[i] [MOVE] walk -> idle (1.32s)[0m
+[96m[i] [MOVE] #1 sent=210 run(2) rate=0.76x[0m
+[96m[i] [MOVE] walk -> idle (1.18s)[0m
+[96m[i] [MOVE] run -> walk (2.43s)[0m
+[96m[i] [MOVE] idle -> walk (2.84s)[0m
+[96m[i] [MOVE] #1 sent=210 walk(1) rate=0.94x[0m
+[96m[i] [MOVE] walk -> idle (1.27s)[0m
+[96m[i] [MOVE] idle -> walk (2.38s)[0m
+[96m[i] [MOVE] walk -> idle (1.08s)[0m
+[96m[i] [MOVE] idle -> run (2.14s)[0m
+[96m[i] [MOVE] idle -> run (2.76s)[0m
+[96m[i] [MOVE] #1 sent=60 walk(1) rate=0.88x[0m
+[96m[i] [MOVE] walk -> jump (0.55s)[0m
+[96m[i] [MOVE] walk -> run (3.08s)[0m
+[96m[i] [MOVE] jump -> walk (2.16s)[0m
+[96m[i] [MOVE] run -> walk (2.01s)[0m
+[96m[i] [MOVE] walk -> prone (1.62s)[0m
+[96m[i] [MOVE] run -> walk (2.44s)[0m
+[96m[i] [MOVE] prone -> idle (1.34s)[0m
+[96m[i] [MOVE] walk -> run (2.78s)[0m
+[96m[i] [MOVE] run -> walk (1.86s)[0m
+[96m[i] [MOVE] walk -> run (2.55s)[0m
+[96m[i] [MOVE] #1 sent=240 walk(1) rate=0.93x[0m
+[96m[i] [MOVE] idle -> walk (2.65s)[0m
+[96m[i] [MOVE] run -> idle (0.65s)[0m
+[96m[i] [MOVE] idle -> walk (2.93s)[0m
+[96m[i] [MOVE] run -> walk (2.60s)[0m
+[96m[i] [MOVE] #1 sent=240 walk(1) rate=0.87x[0m
+[96m[i] [MOVE] #1 sent=240 walk(1) rate=0.6x[0m
+[96m[i] [MOVE] walk -> run (3.29s)[0m
+[96m[i] [MOVE] walk -> idle (0.72s)[0m
+[96m[i] [MOVE] walk -> run (2.09s)[0m
+[96m[i] [MOVE] walk -> idle (1.58s)[0m
+[96m[i] [MOVE] run -> walk (2.89s)[0m
+[96m[i] [MOVE] idle -> walk (1.85s)[0m
+[96m[i] [MOVE] #1 sent=90 walk(1) rate=0.61x[0m
+[96m[i] [MOVE] idle -> walk (2.46s)[0m
+[96m[i] [MOVE] run -> idle (1.11s)[0m
+[96m[i] [MOVE] idle -> walk (1.63s)[0m
+[96m[i] [MOVE] walk -> idle (1.48s)[0m
+[96m[i] [MOVE] walk -> run (2.11s)[0m
+[96m[i] [MOVE] walk -> idle (1.34s)[0m
+[96m[i] [MOVE] #1 sent=270 walk(1) rate=0.95x[0m
+[96m[i] [MOVE] idle -> walk (2.72s)[0m
+[96m[i] [MOVE] idle -> run (2.12s)[0m
+[96m[i] [MOVE] #1 sent=270 walk(1) rate=0.88x[0m
+[96m[i] [MOVE] walk -> sprint (1.53s)[0m
+[96m[i] [MOVE] run -> idle (0.61s)[0m
+[96m[i] [MOVE] run -> walk (1.74s)[0m
+[96m[i] [MOVE] sprint -> run (2.65s)[0m
+[96m[i] [MOVE] walk -> sprint (2.15s)[0m
+[96m[i] [MOVE] walk -> idle (0.73s)[0m
+[96m[i] [MOVE] idle -> walk (1.68s)[0m
+[96m[i] [MOVE] idle -> run (3.30s)[0m
+[96m[i] [MOVE] #1 sent=270 run(2) rate=0.68x[0m
+[96m[i] [MOVE] sprint -> walk (1.87s)[0m
+[96m[i] [MOVE] walk -> run (2.64s)[0m
+[96m[i] [MOVE] run -> walk (2.73s)[0m
+[96m[i] [MOVE] run -> idle (0.70s)[0m
+[96m[i] [MOVE] run -> idle (1.04s)[0m
+[96m[i] [MOVE] #1 sent=120 idle(0) rate=0.73x[0m
+[96m[i] [MOVE] idle -> walk (2.69s)[0m
+[96m[i] [MOVE] walk -> run (2.77s)[0m
+[96m[i] [MOVE] idle -> walk (2.68s)[0m
+[96m[i] [MOVE] walk -> sprint (1.70s)[0m
+[96m[i] [MOVE] sprint -> walk (2.57s)[0m
+[96m[i] [MOVE] run -> idle (1.34s)[0m
+[96m[i] [MOVE] walk -> idle (0.89s)[0m
+[96m[i] [MOVE] idle -> walk (2.81s)[0m
+[96m[i] [MOVE] walk -> crouch (1.76s)[0m
+[96m[i] [MOVE] #1 sent=300 walk(1) rate=0.68x[0m
+[96m[i] [MOVE] idle -> walk (2.89s)[0m
+[96m[i] [MOVE] #1 sent=300 walk(1) rate=0.95x[0m
+[96m[i] [MOVE] crouch -> walk (2.30s)[0m
+[96m[i] [MOVE] walk -> idle (0.83s)[0m
+[96m[i] [MOVE] walk -> idle (1.58s)[0m
+[96m[i] [MOVE] idle -> walk (1.65s)[0m
+[96m[i] [MOVE] walk -> idle (1.17s)[0m
+[96m[i] [MOVE] idle -> walk (2.97s)[0m
+[96m[i] [MOVE] idle -> walk (2.27s)[0m
+[96m[i] [MOVE] walk -> idle (1.00s)[0m
+[96m[i] [MOVE] #1 sent=300 idle(0) rate=0.94x[0m
+[96m[i] [MOVE] walk -> idle (1.38s)[0m
+[96m[i] [MOVE] idle -> run (3.92s)[0m
+[96m[i] [MOVE] walk -> prone (2.15s)[0m
+[96m[i] [MOVE] idle -> walk (2.20s)[0m
+[96m[i] [MOVE] #1 sent=150 walk(1) rate=0.74x[0m
+[96m[i] [MOVE] prone -> walk (2.27s)[0m
+[96m[i] [MOVE] run -> idle (1.06s)[0m
+[96m[i] [MOVE] walk -> idle (1.14s)[0m
+[96m[i] [MOVE] idle -> run (2.80s)[0m
+[96m[i] [MOVE] walk -> idle (1.34s)[0m
+[96m[i] [MOVE] idle -> walk (1.62s)[0m
+[96m[i] [MOVE] idle -> walk (2.86s)[0m
+[96m[i] [MOVE] run -> walk (1.64s)[0m
+[96m[i] [MOVE] walk -> idle (1.51s)[0m
+[96m[i] [MOVE] #1 sent=330 idle(0) rate=0.68x[0m
+[96m[i] [MOVE] #1 sent=330 walk(1) rate=0.78x[0m
+[96m[i] [MOVE] idle -> walk (2.99s)[0m
+[96m[i] [MOVE] walk -> run (3.36s)[0m
+[96m[i] [MOVE] walk -> idle (1.13s)[0m
+[96m[i] [MOVE] idle -> walk (2.63s)[0m
+[96m[i] [MOVE] walk -> idle (0.85s)[0m
+[96m[i] [MOVE] idle -> walk (2.34s)[0m
+[96m[i] [MOVE] run -> walk (2.03s)[0m
+[96m[i] [MOVE] #1 sent=330 walk(1) rate=0.76x[0m
+[96m[i] [MOVE] walk -> idle (0.92s)[0m
+[96m[i] [MOVE] walk -> idle (0.83s)[0m
+[96m[i] [MOVE] walk -> sprint (2.12s)[0m
+[96m[i] [MOVE] walk -> prone (2.08s)[0m
+[96m[i] [MOVE] idle -> walk (1.73s)[0m
+[96m[i] [MOVE] idle -> walk (2.08s)[0m
+[96m[i] [MOVE] sprint -> walk (2.69s)[0m
+[96m[i] [MOVE] prone -> run (3.55s)[0m
+[96m[i] [MOVE] #1 sent=180 run(2) rate=0.9x[0m
+[96m[i] [MOVE] #1 sent=360 walk(1) rate=0.95x[0m
+[96m[i] [MOVE] run -> idle (1.32s)[0m
+[96m[i] [MOVE] walk -> idle (1.05s)[0m
+[96m[i] [MOVE] walk -> idle (0.75s)[0m
+[96m[i] [MOVE] idle -> walk (2.35s)[0m
+[96m[i] [MOVE] #1 sent=360 walk(1) rate=0.72x[0m
+[96m[i] [MOVE] idle -> crouch (1.89s)[0m
+[96m[i] [MOVE] idle -> walk (2.64s)[0m
+[96m[i] [MOVE] crouch -> idle (1.47s)[0m
+[96m[i] [MOVE] #1 sent=360 idle(0) rate=0.69x[0m
+[96m[i] [MOVE] walk -> run (2.49s)[0m
+[96m[i] [MOVE] idle -> walk (2.48s)[0m
+[96m[i] [MOVE] walk -> idle (0.82s)[0m
+[96m[i] [MOVE] walk -> crouch (1.49s)[0m
+[96m[i] [MOVE] run -> walk (1.65s)[0m
+[96m[i] [MOVE] #1 sent=210 walk(1) rate=0.95x[0m
+[96m[i] [MOVE] walk -> idle (0.65s)[0m
+[96m[i] [MOVE] crouch -> walk (2.10s)[0m
+[96m[i] [MOVE] idle -> walk (2.91s)[0m
+[96m[i] [MOVE] idle -> walk (1.79s)[0m
+[96m[i] [MOVE] walk -> idle (1.04s)[0m
+[96m[i] [MOVE] idle -> walk (2.38s)[0m
+[96m[i] [MOVE] walk -> idle (0.75s)[0m
+[96m[i] [MOVE] walk -> idle (1.48s)[0m
+[96m[i] [MOVE] idle -> run (3.29s)[0m
+[96m[i] [MOVE] walk -> idle (1.11s)[0m
+[96m[i] [MOVE] idle -> walk (2.35s)[0m
+[96m[i] [MOVE] #1 sent=390 idle(0) rate=0.69x[0m
+[96m[i] [MOVE] idle -> walk (2.20s)[0m
+[96m[i] [MOVE] #1 sent=390 run(2) rate=0.91x[0m
+[96m[i] [MOVE] walk -> idle (0.73s)[0m
+[96m[i] [MOVE] run -> walk (2.27s)[0m
+[96m[i] [MOVE] idle -> walk (2.95s)[0m
+[96m[i] [MOVE] walk -> run (2.59s)[0m
+[96m[i] [MOVE] walk -> idle (1.02s)[0m
+[96m[i] [MOVE] walk -> prone (2.55s)[0m
+[96m[i] [MOVE] #1 sent=390 walk(1) rate=0.9x[0m
+[96m[i] [MOVE] run -> sprint (1.92s)[0m
+[96m[i] [MOVE] prone -> walk (2.35s)[0m
+[96m[i] [MOVE] idle -> walk (2.44s)[0m
+[96m[i] [MOVE] sprint -> walk (1.94s)[0m
+[96m[i] [MOVE] #1 sent=240 walk(1) rate=0.82x[0m
+[96m[i] [MOVE] walk -> run (2.21s)[0m
+[96m[i] [MOVE] walk -> sprint (1.46s)[0m
+[96m[i] [MOVE] run -> idle (0.88s)[0m
+[96m[i] [MOVE] sprint -> run (3.73s)[0m
+[96m[i] [MOVE] walk -> idle (1.21s)[0m
+[96m[i] [MOVE] idle -> walk (1.97s)[0m
+[96m[i] [MOVE] idle -> walk (2.22s)[0m
+[96m[i] [MOVE] walk -> idle (0.85s)[0m
+[96m[i] [MOVE] #1 sent=420 idle(0) rate=0.88x[0m
+[96m[i] [MOVE] #1 sent=420 walk(1) rate=0.82x[0m
+[96m[i] [MOVE] run -> walk (2.61s)[0m
+[96m📡 [PING OK] UID 18735803715 total=20[0m
+[96m[i] [MOVE] walk -> idle (1.02s)[0m
+[96m[i] [MOVE] idle -> walk (1.91s)[0m
+[96m[i] [MOVE] walk -> run (3.32s)[0m
+[96m[i] [MOVE] idle -> run (3.42s)[0m
+[96m📡 [PING OK] UID 18735803205 total=20[0m
+[96m[i] [MOVE] walk -> idle (0.88s)[0m
+[96m📡 [PING OK] UID 18735803262 total=20[0m
+[96m[i] [MOVE] walk -> sprint (2.18s)[0m
+[96m[i] [MOVE] #1 sent=420 sprint(3) rate=0.77x[0m
+[96m[i] [MOVE] idle -> walk (2.20s)[0m
+[96m[i] [MOVE] run -> idle (1.11s)[0m
+[96m[i] [MOVE] run -> idle (1.48s)[0m
+[96m[i] [MOVE] sprint -> walk (2.22s)[0m
+[96m[i] [MOVE] #1 sent=270 idle(0) rate=0.89x[0m
+[96m[i] [MOVE] walk -> idle (1.10s)[0m
+[96m[i] [MOVE] idle -> walk (2.85s)[0m
+[96m[i] [MOVE] idle -> run (3.67s)[0m
+[96m[i] [MOVE] walk -> idle (1.07s)[0m
+[96m[i] [MOVE] walk -> prone (2.26s)[0m
+[96m[i] [MOVE] idle -> walk (2.76s)[0m
+[96m[i] [MOVE] run -> idle (0.91s)[0m
+[96m[i] [MOVE] idle -> run (3.65s)[0m
+[96m[i] [MOVE] prone -> sprint (1.40s)[0m
+[96m[i] [MOVE] walk -> idle (1.25s)[0m
+[96m[i] [MOVE] idle -> walk (2.76s)[0m
+[96m[i] [MOVE] sprint -> idle (1.60s)[0m
+[96m[i] [MOVE] #1 sent=450 walk(1) rate=0.64x[0m
+[96m[i] [MOVE] #1 sent=450 idle(0) rate=0.64x[0m
+[96m[i] [MOVE] idle -> run (2.52s)[0m
+[96m[i] [MOVE] run -> idle (0.93s)[0m
+[96m[i] [MOVE] idle -> walk (2.39s)[0m
+[96m[i] [MOVE] idle -> run (2.72s)[0m
+[96m[i] [MOVE] run -> sprint (1.64s)[0m
+[96m[i] [MOVE] sprint -> idle (1.11s)[0m
+[96m[i] [MOVE] #1 sent=450 idle(0) rate=0.88x[0m
+[96m[i] [MOVE] run -> idle (1.26s)[0m
+[96m[i] [MOVE] idle -> walk (2.36s)[0m
+[96m[i] [MOVE] walk -> idle (1.11s)[0m
+[96m[i] [MOVE] idle -> walk (2.60s)[0m
+[96m[i] [MOVE] idle -> walk (2.59s)[0m
+[96m[i] [MOVE] #1 sent=300 walk(1) rate=0.86x[0m
+[96m[i] [MOVE] walk -> idle (0.89s)[0m
+[96m[i] [MOVE] walk -> jump (0.39s)[0m
+[96m[i] [MOVE] jump -> walk (2.27s)[0m
+[96m[i] [MOVE] idle -> walk (2.02s)[0m
+[96m[i] [MOVE] walk -> run (2.29s)[0m
+[96m[i] [MOVE] walk -> idle (0.81s)[0m
+[96m[i] [MOVE] run -> idle (1.22s)[0m
+[96m[i] [MOVE] idle -> walk (2.90s)[0m
+[96m[i] [MOVE] walk -> prone (1.78s)[0m
+[96m[i] [MOVE] prone -> walk (1.95s)[0m
+[96m[i] [MOVE] walk -> idle (1.18s)[0m
+[96m[i] [MOVE] idle -> walk (2.46s)[0m
+[96m[i] [MOVE] #1 sent=480 walk(1) rate=0.74x[0m
+[96m[i] [MOVE] #1 sent=480 walk(1) rate=0.84x[0m
+[96m[i] [MOVE] idle -> walk (2.65s)[0m
+[96m[i] [MOVE] walk -> idle (0.80s)[0m
+[96m[i] [MOVE] #1 sent=480 walk(1) rate=0.73x[0m
+[96m[i] [MOVE] idle -> walk (2.14s)[0m
+[96m[i] [MOVE] walk -> idle (0.80s)[0m
+[96m[i] [MOVE] walk -> idle (0.62s)[0m
+[96m[i] [MOVE] idle -> walk (2.21s)[0m
+[96m[i] [MOVE] walk -> idle (0.63s)[0m
+[96m[i] [MOVE] walk -> idle (0.88s)[0m
+[96m[i] [MOVE] idle -> walk (2.61s)[0m
+[96m[i] [MOVE] idle -> walk (2.54s)[0m
+[96m[i] [MOVE] #1 sent=330 idle(0) rate=0.77x[0m
+[96m📡 [PING OK] UID 18735803888 total=20[0m
+[96m[i] [MOVE] idle -> run (2.82s)[0m
+[96m[i] [MOVE] walk -> idle (1.37s)[0m
+[96m[i] [MOVE] idle -> walk (2.84s)[0m
+[96m[i] [MOVE] run -> idle (1.04s)[0m
+[96m[i] [MOVE] walk -> idle (0.69s)[0m
+[96m[i] [MOVE] idle -> walk (2.21s)[0m
+[96m[i] [MOVE] walk -> idle (0.88s)[0m
+[96m[i] [MOVE] idle -> walk (2.47s)[0m
+[96m[i] [MOVE] idle -> run (3.74s)[0m
+[96m[i] [MOVE] walk -> idle (1.45s)[0m
+[96m[i] [MOVE] walk -> idle (0.82s)[0m
+[96m[i] [MOVE] walk -> idle (1.20s)[0m
+[96m[i] [MOVE] idle -> walk (2.02s)[0m
+[96m[i] [MOVE] #1 sent=510 run(2) rate=0.93x[0m
+[96m[i] [MOVE] #1 sent=510 walk(1) rate=0.8x[0m
+[96m[i] [MOVE] idle -> walk (2.33s)[0m
+[96m[i] [MOVE] #1 sent=510 walk(1) rate=0.64x[0m
+[96m[i] [MOVE] run -> idle (1.41s)[0m
+[96m[i] [MOVE] idle -> run (2.17s)[0m
+[96m[i] [MOVE] walk -> run (3.04s)[0m
+[96m[i] [MOVE] run -> idle (0.70s)[0m
+[96m[i] [MOVE] walk -> idle (0.82s)[0m
+[96m[i] [MOVE] idle -> run (2.08s)[0m
+[96m[i] [MOVE] idle -> run (3.63s)[0m
+[96m[i] [MOVE] #1 sent=360 run(2) rate=0.65x[0m
+[96m[i] [MOVE] run -> idle (1.29s)[0m
+[96m[i] [MOVE] idle -> walk (2.34s)[0m
+[96m[i] [MOVE] run -> walk (2.45s)[0m
+[96m[i] [MOVE] idle -> walk (1.70s)[0m
+[96m[i] [MOVE] walk -> idle (1.39s)[0m
+[96m[i] [MOVE] run -> walk (1.63s)[0m
+[96m[i] [MOVE] walk -> idle (0.96s)[0m
+[96m[i] [MOVE] idle -> prone (1.60s)[0m
+[96m[i] [MOVE] idle -> walk (1.69s)[0m
+[96m[i] [MOVE] prone -> walk (2.66s)[0m
+[96m[i] [MOVE] walk -> idle (0.81s)[0m
+[96m[i] [MOVE] walk -> idle (1.50s)[0m
+[96m[i] [MOVE] idle -> walk (2.51s)[0m
+[96m[i] [MOVE] walk -> idle (1.56s)[0m
+[96m[i] [MOVE] idle -> run (3.18s)[0m
+[96m[i] [MOVE] walk -> run (3.24s)[0m
+[96m[i] [MOVE] #1 sent=540 idle(0) rate=0.74x[0m
+[96m[i] [MOVE] #1 sent=540 run(2) rate=0.92x[0m
+[96m[i] [MOVE] #1 sent=540 run(2) rate=0.84x[0m
+[96m[i] [MOVE] run -> idle (1.31s)[0m
+[96m[i] [MOVE] walk -> idle (1.51s)[0m
+[96m[i] [MOVE] idle -> walk (2.08s)[0m
+[96m[i] [MOVE] run -> idle (0.79s)[0m
+[96m[i] [MOVE] idle -> walk (2.62s)[0m
+[96m[i] [MOVE] idle -> sprint (1.42s)[0m
+[96m[i] [MOVE] #1 sent=390 sprint(3) rate=0.85x[0m
+[96m[i] [MOVE] sprint -> walk (2.75s)[0m
+[96m[i] [MOVE] idle -> walk (2.22s)[0m
+[96m[i] [MOVE] walk -> idle (1.35s)[0m
+[96m[i] [MOVE] idle -> walk (2.00s)[0m
+[96m[i] [MOVE] walk -> idle (1.12s)[0m
+[96m[i] [MOVE] walk -> idle (1.12s)[0m
+[96m[i] [MOVE] walk -> idle (0.82s)[0m
+[96m[i] [MOVE] walk -> idle (0.91s)[0m
+[96m[i] [MOVE] idle -> walk (1.73s)[0m
+[96m[i] [MOVE] idle -> walk (2.21s)[0m
+[96m[i] [MOVE] idle -> run (3.32s)[0m
+[96m[i] [MOVE] #1 sent=570 run(2) rate=0.86x[0m
+[96m[i] [MOVE] idle -> run (2.80s)[0m
+[96m[i] [MOVE] #1 sent=570 run(2) rate=0.65x[0m
+[96m[i] [MOVE] #1 sent=570 walk(1) rate=0.71x[0m
+[96m[i] [MOVE] walk -> idle (1.33s)[0m
+[96m[i] [MOVE] run -> walk (2.35s)[0m
+[96m[i] [MOVE] run -> idle (1.30s)[0m
+[96m[i] [MOVE] idle -> walk (1.74s)[0m
+[96m[i] [MOVE] #1 sent=420 walk(1) rate=0.78x[0m
+[96m[i] [MOVE] walk -> idle (1.42s)[0m
+[96m[i] [MOVE] idle -> walk (2.38s)[0m
+[96m[i] [MOVE] walk -> idle (1.43s)[0m
+[96m[i] [MOVE] idle -> run (3.64s)[0m
+[96m[i] [MOVE] walk -> idle (0.79s)[0m
+[96m[i] [MOVE] idle -> walk (2.54s)[0m
+[96m[i] [MOVE] idle -> walk (2.10s)[0m
+[96m[i] [MOVE] walk -> idle (1.08s)[0m
+[96m[i] [MOVE] #1 sent=600 walk(1) rate=0.79x[0m
+[96m[i] [MOVE] walk -> idle (1.41s)[0m
+[96m[i] [MOVE] run -> walk (2.40s)[0m
+[96m[i] [MOVE] #1 sent=600 walk(1) rate=0.63x[0m
+[96m[i] [MOVE] idle -> walk (2.82s)[0m
+[96m[i] [MOVE] #1 sent=600 idle(0) rate=0.9x[0m
+[96m[i] [MOVE] idle -> walk (2.60s)[0m
+[96m[i] [MOVE] walk -> run (3.33s)[0m
+[96m[i] [MOVE] walk -> idle (1.56s)[0m
+[96m[i] [MOVE] walk -> idle (1.21s)[0m
+[96m[i] [MOVE] #1 sent=450 idle(0) rate=0.89x[0m
+[96m[i] [MOVE] run -> idle (0.82s)[0m
+[96m[i] [MOVE] idle -> walk (2.90s)[0m
+[96m[i] [MOVE] walk -> run (2.72s)[0m
+[96m[i] [MOVE] idle -> run (2.97s)[0m
+[96m[i] [MOVE] idle -> walk (2.94s)[0m
+[96m[i] [MOVE] run -> idle (1.10s)[0m
+[96m[i] [MOVE] walk -> idle (1.02s)[0m
+[96m[i] [MOVE] walk -> idle (0.61s)[0m
+[96m[i] [MOVE] idle -> walk (1.68s)[0m
+[96m[i] [MOVE] idle -> walk (2.60s)[0m
+[96m[i] [MOVE] idle -> run (3.49s)[0m
+[96m[i] [MOVE] run -> idle (1.14s)[0m
+[96m[i] [MOVE] #1 sent=630 walk(1) rate=0.89x[0m
+[96m[i] [MOVE] idle -> run (2.50s)[0m
+[96m[i] [MOVE] #1 sent=630 run(2) rate=0.71x[0m
+[96m[i] [MOVE] walk -> idle (0.70s)[0m
+[96m[i] [MOVE] run -> sprint (1.94s)[0m
+[96m[i] [MOVE] idle -> walk (2.11s)[0m
+[96m[i] [MOVE] run -> prone (1.97s)[0m
+[96m[i] [MOVE] #1 sent=630 walk(1) rate=0.69x[0m
+[96m[i] [MOVE] sprint -> walk (2.97s)[0m
+[96m[i] [MOVE] prone -> idle (0.85s)[0m
+[96m[i] [MOVE] walk -> idle (0.99s)[0m
+[96m[i] [MOVE] idle -> run (3.09s)[0m
+[96m[i] [MOVE] idle -> run (2.55s)[0m
+[96m[i] [MOVE] walk -> idle (0.82s)[0m
+[96m[i] [MOVE] walk -> run (3.90s)[0m
+[96m[i] [MOVE] #1 sent=480 run(2) rate=0.67x[0m
+[96m[i] [MOVE] run -> walk (1.91s)[0m
+[96m[i] [MOVE] run -> idle (1.29s)[0m
+[96m[i] [MOVE] walk -> idle (1.44s)[0m
+[96m[i] [MOVE] idle -> walk (2.14s)[0m
+[96m[i] [MOVE] idle -> walk (2.62s)[0m
+[96m[i] [MOVE] idle -> run (3.31s)[0m
+[96m[i] [MOVE] run -> walk (1.92s)[0m
+[96m[i] [MOVE] walk -> run (2.59s)[0m
+[96m[i] [MOVE] walk -> idle (1.17s)[0m
+[96m[i] [MOVE] walk -> idle (1.16s)[0m
+[96m[i] [MOVE] #1 sent=660 idle(0) rate=0.88x[0m
+[96m[i] [MOVE] #1 sent=660 run(2) rate=0.66x[0m
+[96m[i] [MOVE] idle -> walk (1.85s)[0m
+[96m[i] [MOVE] run -> walk (2.54s)[0m
+[96m[i] [MOVE] run -> walk (2.66s)[0m
+[96m[i] [MOVE] #1 sent=660 walk(1) rate=0.72x[0m
+[96m[i] [MOVE] walk -> idle (1.52s)[0m
+[96m[i] [MOVE] walk -> idle (1.32s)[0m
+[96m[i] [MOVE] idle -> walk (2.49s)[0m
+[96m[i] [MOVE] #1 sent=510 walk(1) rate=0.8x[0m
+[96m[i] [MOVE] idle -> walk (2.25s)[0m
+[96m[i] [MOVE] walk -> sprint (2.30s)[0m
+[96m[i] [MOVE] idle -> walk (1.69s)[0m
+[96m[i] [MOVE] walk -> idle (0.71s)[0m
+[96m[i] [MOVE] sprint -> idle (0.66s)[0m
+[96m[i] [MOVE] idle -> walk (1.75s)[0m
+[96m[i] [MOVE] idle -> walk (2.58s)[0m
+[96m[i] [MOVE] walk -> idle (1.07s)[0m

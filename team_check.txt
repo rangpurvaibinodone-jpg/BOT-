@@ -1,0 +1,117 @@
+[96m============================================================[0m
+[92m  TEAM RBC — Squad Bot (Create/Invite/Accept/PK)[0m
+[96m============================================================[0m
+[96m[i] Match interval: 4.0s | Offline: 6.0s[0m
+[96m[i] Mode: BATTLE ROYALE ONLY[0m
+[92m[+] [SQUAD] size=4 peer_wait=90.0s[0m
+[96m[i]   invite_cycle=4.0s | max_time=120.0s[0m
+[96m[i]   heartbeat=3.0s | final_wait=8.0s[0m
+[96m============================================================[0m
+[91m[-] Dashboard: [Errno 98] error while attempting to bind on address ('0.0.0.0', 20333): [errno 98] address already in use[0m
+[96m[i] [LOGIN] Guest 8283183615...[0m
+[92m[+] [CACHE] 8283183615 loaded[0m
+[92m[+] [PING] Started 18735803205[0m
+[96m[i] [LOGIN] Guest 8283184320...[0m
+[92m[+] [CACHE] 8283184320 loaded[0m
+[92m[+] [PING] Started 18735803262[0m
+[96m[i] [LOGIN] Guest 8283184850...[0m
+[92m[+] [CACHE] 8283184850 loaded[0m
+[92m[+] [PING] Started 18735803715[0m
+[96m[i] [LOGIN] Guest 8283185045...[0m
+[92m[+] [CACHE] 8283185045 loaded[0m
+[92m[+] [PING] Started 18735803888[0m
+[92m[+] [FUNC] TCP connected 18735803262 (DNS:202.81.106.90 Lvl:2 R:BD)[0m
+[92m[+] [TEAM] 👑 18735803262 is leader[0m
+[96m[i] [RAW-IN 18735803262] len=18 prefix=e0000000046430696de00000[0m
+[92m[+] [FUNC] TCP connected 18735803715 (DNS:148.222.66.153 Lvl:2 R:BD)[0m
+[92m[+] [FUNC] TCP connected 18735803205 (DNS:202.81.106.63 Lvl:3 R:BD)[0m
+[96m[i] [RAW-IN 18735803715] len=20 prefix=d800000005336430777ad800[0m
+[96m[i] [RAW-IN 18735803715] len=1129 prefix=110000046408c3daf6e54510[0m
+[96m[i] [RAW-IN 18735803715] len=1546 prefix=110000060508c3daf6e54510[0m
+[96m📊 [EXP] UID 18735803262 Lvl2 +48[0m
+[96m📊 [EXP] UID 18735803888 Lvl3 +202[0m
+[96m[i] [RAW-IN 18735803262] len=24 prefix=190000001308fed6f6e54510[0m
+[96m[i] [RAW-IN 18735803715] len=24 prefix=190000001308c3daf6e54510[0m
+[96m[i] [RAW-IN 18735803205] len=2704 prefix=e70000000464306974e70000[0m
+[96m📊 [EXP] UID 18735803715 Lvl2 +48[0m
+[96m📊 [EXP] UID 18735803205 Lvl3 +202[0m
+[92m[+] [FUNC] TCP connected 18735803888 (DNS:202.81.106.103 Lvl:3 R:BD)[0m
+[96m[i] [TEAM] 18735803888 waiting as member...[0m
+[92m[+] [TEAM] ✅ All 4 peers online[0m
+[96m[i] [RAW-IN 18735803888] len=20 prefix=ae000000053364307377ae00[0m
+[96m[i] [RAW-IN 18735803888] len=1135 prefix=110000046a08f0dbf6e54510[0m
+[96m[i] [RAW-IN 18735803888] len=1546 prefix=110000060508f0dbf6e54510[0m
+[96m[i] [TEAM] 18735803715 waiting as member...[0m
+[96m[i] [TEAM] 18735803205 waiting as member...[0m
+[96m[i] [RAW-IN 18735803262] len=8 prefix=9b00000003303779[0m
+[96m[i] [RAW-IN 18735803888] len=7 prefix=c6000000026777[0m
+[96m[i] [RAW-IN 18735803205] len=6 prefix=ab0000000168[0m
+[96m[i] [RAW-IN 18735803715] len=12 prefix=eb0000000768743364316333[0m
+[92m[+] [TEAM] 👑 18735803262 creating team...[0m
+[96m[i] [TEAM] create_team sent (310B)[0m
+[92m[+] [TEAM] 👥 In team (1/4) | joined: 18735803262[0m
+[96m[i] [RAW-IN 18735803262] len=614 prefix=050000026108fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=614 hex=050000026108fed6f6e545100520012ad40408fed6f6e545120242441801200332b60308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f14: 1792129810933885552_30b6...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f11: 5369802[0m
+[92m[+] [TEAM-IN 18735803262] 📢 Team Code: 5369802[0m
+[96m[i] [TEAM] Will invite 3 peers: [18735803715, 18735803205, 18735803888][0m
+[92m[+] [TEAM] 🎯 Invite-loop start (max 120s)[0m
+[92m[+] [TEAM] 📨 invite 18735803715 cycle#1[0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e54510052002[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803715] len=510 prefix=05000001f908c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=510 hex=05000001f908c3daf6e545100520032aec0308fed6f6e54512b60308fed6f6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803715] nested@5[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f8: 1792129810933885552_30b6...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803715] 📨 ACCEPT: inviter=18735803262 group=1792129810933885...[0m
+[92m[+] [TEAM-IN 18735803715] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (2/4) | joined: 18735803715[0m
+[96m[i] [RAW-IN 18735803888] len=1098 prefix=050000044508f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=1098 hex=050000044508f0dbf6e545100520082ab80808c3daf6e5451aaf0808f0dbf6e54512024244180120[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=1098 prefix=050000044508c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=1098 hex=050000044508c5d6f6e545100520082ab80808c3daf6e5451aaf0808f0dbf6e54512024244180120[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803715] len=1098 prefix=050000044508c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1098 hex=050000044508c3daf6e545100520082ab80808c3daf6e5451aaf0808f0dbf6e54512024244180120[0m
+[96m[i] [TEAM-IN 18735803715] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803262] len=1074 prefix=050000042d08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=1074 hex=050000042d08fed6f6e545100520062aa00808fed6f6e545120242441801200332b60308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803262] nested@5[0m
+[92m[+] [TEAM-IN 18735803262] 📋 group_id@f14: 1792129810933885552_30b6...[0m
+[92m[+] [TEAM-IN 18735803262] 👤 inviter@f11: 5369802[0m
+[92m[+] [TEAM-IN 18735803262] 📢 Team Code: 5369802[0m
+[96m[i] [RAW-IN 18735803715] len=1074 prefix=050000042d08c3daf6e54510[0m
+[96m[i] [TEAM-IN 18735803715] len=1074 hex=050000042d08c3daf6e545100520062aa00808fed6f6e545120242441801200332b60308fed6f6e5[0m
+[96m[i] [TEAM-IN 18735803715] decoded@14/manual fields=['18296683', '3', '4', '6', '7', '8', '10', '11', '13', '14', '17', '20', '22', '25', '29', '31', '33'][0m
+[96m[i] [TEAM-IN 18735803715] nested@6[0m
+[92m[+] [TEAM-IN 18735803715] 📋 group_id@f18: 0107090a0b120f19202729...[0m
+[92m[+] [TEAM-IN 18735803715] 👤 inviter@f4: 1792129814[0m
+[92m[+] [TEAM-IN 18735803715] 📢 Team Code: 5369802[0m
+[96m[i] [RAW-IN 18735803205] len=7 prefix=e2000000023978[0m
+[96m[i] [RAW-IN 18735803888] len=6 prefix=f80000000167[0m
+[92m[+] [TEAM] 📨 invite 18735803205 cycle#1[0m
+[96m[i] [RAW-IN 18735803205] len=510 prefix=05000001f908c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=510 hex=05000001f908c5d6f6e545100520032aec0308fed6f6e54512b60308fed6f6e545120c6a756e616b[0m
+[96m[i] [TEAM-IN 18735803205] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [TEAM-IN 18735803205] nested@5[0m
+[92m[+] [TEAM-IN 18735803205] 📋 group_id@f8: 1792129810933885552_30b6...[0m
+[92m[+] [TEAM-IN 18735803205] 👤 inviter@f1: 18735803262[0m
+[92m[+] [TEAM-IN 18735803205] 📨 ACCEPT: inviter=18735803262 group=1792129810933885...[0m
+[92m[+] [TEAM-IN 18735803205] ✅ accept #1 (374B)[0m
+[92m[+] [TEAM] 👥 In team (3/4) | joined: 18735803205[0m
+[96m[i] [RAW-IN 18735803262] len=15 prefix=050000000a08fed6f6e54510[0m
+[96m[i] [TEAM-IN 18735803262] len=15 hex=050000000a08fed6f6e54510052002[0m
+[96m[i] [TEAM-IN 18735803262] decoded@10/manual fields=['1', '2', '4'][0m
+[96m[i] [RAW-IN 18735803888] len=632 prefix=050000027308f0dbf6e54510[0m
+[96m[i] [TEAM-IN 18735803888] len=632 hex=050000027308f0dbf6e545100520082ae60408c5d6f6e5451add0408f0dbf6e54512024244180120[0m
+[96m[i] [TEAM-IN 18735803888] decoded@10/manual fields=['1', '2', '4', '5'][0m
+[96m[i] [RAW-IN 18735803205] len=632 prefix=050000027308c5d6f6e54510[0m
+[96m[i] [TEAM-IN 18735803205] len=632 hex=050000027308c5d6f6e545100520082ae60408c5d6f6e5451add0408f0dbf6e54512024244180120[0m
